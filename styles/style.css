@@ -137,3 +137,32 @@ main{
 
 }
 
+/* Resume style */
+.resume-title{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 113px;
+}
+.resume-contant{
+    display: flex;
+}
+.resume-all{
+    margin-right: 71px;
+}
+.resume{
+    margin-top: 60px;
+    
+}
+.value{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.value-title{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.date{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
